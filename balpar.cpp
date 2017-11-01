@@ -1,3 +1,4 @@
+//code to check if parantheses are balanced or not
 #include<iostream>
 #include<conio.h>
 #include<string.h>
